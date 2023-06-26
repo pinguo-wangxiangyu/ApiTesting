@@ -4,16 +4,17 @@ ENV: QA
 Global_Exported: true
 Global_Var: {}
 LOG_Level: info
-MOD: "\u76F8\u673A\u8D34\u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE"
+MOD: "\u98CE\u683C\u5986_\u5B57\u6BB5\u5BF9\u7167_And_PRE"
 PRIO: '5'
 TIMEOUT: '10'
 TestList:
-- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u76F8\u673A\u8D34\
-  \u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u5206\u7C7B&\u7D20\u6750\
-  zh_CN.py"
-- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u76F8\u673A\u8D34\
-  \u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u8BE6\u60C5zh_CN1.py"
-- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u76F8\u673A\u8D34\
-  \u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u8BE6\u60C5zh_CN2.py"
-- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u76F8\u673A\u8D34\
-  \u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u8BE6\u60C5zh_CN3.py"
+- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u98CE\u683C\u5986\
+  _\u5B57\u6BB5\u5BF9\u7167_And_PRE/\u7F16\u8F91\u4FA7\u98CE\u683C\u5986.py"
+- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u98CE\u683C\u5986\
+  _\u5B57\u6BB5\u5BF9\u7167_And_PRE/\u7F16\u8F91\u4FA7\u98CE\u683C\u5986\u8BE6\u60C5\
+  .py"
+- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u98CE\u683C\u5986\
+  _\u5B57\u6BB5\u5BF9\u7167_And_PRE/\u76F8\u673A\u4FA7\u98CE\u683C\u5986.py"
+- "/Users/wangxiangyu/Downloads/APITesting/TestCase/C360_Android/\u98CE\u683C\u5986\
+  _\u5B57\u6BB5\u5BF9\u7167_And_PRE/\u76F8\u673A\u4FA7\u98CE\u683C\u5986\u8BE6\u60C5\
+  .py"
