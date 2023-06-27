@@ -1,0 +1,1 @@
+{"uuid": "fda610ba-6171-4042-b40b-001d7d0c292b", "children": ["252b4420-b8bb-466b-b6e4-ec74fb5371f6"], "befores": [{"name": "method_logging", "status": "passed", "start": 1687777025106, "stop": 1687777025106}], "afters": [{"name": "method_logging::0", "status": "passed", "start": 1687777025230, "stop": 1687777025230}], "start": 1687777025106, "stop": 1687777025230}
